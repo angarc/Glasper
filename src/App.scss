@@ -1,0 +1,29 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.App {
+  width: 90%;
+  margin: auto;
+}
+
+.media-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+
+
+  &__button-container {
+    width: 40%;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__chord-label-container {
+    
+  }
+}
+
+
